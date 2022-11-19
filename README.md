@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="350" height="350" src="images/sticker.webp">
+  <img width="200" height="200" src="images/sticker.webp">
 
 </p>
 
