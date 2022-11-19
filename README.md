@@ -23,7 +23,7 @@
 
 ### Follow Me:
 
-[![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=27A0D)](https://t.me/john_stooop)
+[![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=27A0D)](https://wa.me/89818766977)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/john_stooop)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](https://www.linkedin.com/in/ivantimoshenko)
 
