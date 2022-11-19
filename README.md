@@ -1,14 +1,14 @@
-<div style="display: flex; justify-content: center">
-    <img src="images/sticker.webp" style="width: 512px" height="512">
-</div>
+<p align="center">
 
-### <h1 style="display: flex; justify-content: center">Hello, I'm <span style="color: cornflowerblue; margin-left: 8px"> Ivan Timoshenko </span></h1>
+  <img width="350" height="350" src="images/sticker.webp">
 
-## <div style="display: flex; justify-content: center; color: cadetblue; font-size: 28px">  Frontend developer </div>
+</p>
 
-<br>
-
-### 💻 Languages and Tools:
+<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan Timoshenko</a>
+<h2 align="center">
+    <a href="https://daniilshat.ru/" target="_blank">Frontend developer</a>
+    
+### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=CC0000)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
