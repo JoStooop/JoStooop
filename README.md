@@ -4,9 +4,9 @@
 
 </p>
 
-<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan</a>
+<h1 align="center">Hello, I'm <a href="" target="_blank">Ivan</a>
 <h2 align="center">
-    <a href="https://daniilshat.ru/" target="_blank">Frontend developer</a>
+    <a href="" target="_blank">Frontend developer</a>
     
 ### Languages and Tools:
 
