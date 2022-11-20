@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan Timoshenko</a>
+<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan</a>
 <h2 align="center">
     <a href="https://daniilshat.ru/" target="_blank">Frontend developer</a>
     
