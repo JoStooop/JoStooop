@@ -12,10 +12,10 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
 
-![React.js](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux&logoColor=61DAFB)
   
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js)
+![Node](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
     
@@ -32,10 +32,24 @@
 ### 🥷 В свободное время люблю практиковаться на Codewars
 [![Codewars](https://www.codewars.com/users/J_Stooop/badges/large)](https://www.codewars.com/users/J_Stooop)
 
----
+##
   
 ### Follow Me:
-[![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=27A0D)](https://wa.me/89818766977)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/john_stooop)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](https://www.linkedin.com/in/ivantimoshenko)
-
+  
+<div>
+  <a href="https://www.linkedin.com/in/ivantimoshenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  
+  <a href="mailto:ivantm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  
+  <a href="https://t.me/john_stooop" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram">
+  </a>
+  
+  <a href="https://wa.me/89818766977" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-090?style=for-the-badge&logo=whatsapp&logoColor=27A0D" alt="whatsapp">
+  </a>
+</div>
