@@ -6,8 +6,8 @@
 <h2 align="center"><a href="https://github.com/JoStooop" target="_blank">Frontend developer</a>
 
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=007ACC)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=SASS)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
