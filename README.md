@@ -13,7 +13,7 @@
 ![Typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
 
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764abc)
   
 ![Terminal](https://img.shields.io/badge/-Terminal-000?style=for-the-badge&logo=MacOS)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=14a0d7)
@@ -50,10 +50,10 @@
   </a>
   
   <a href="https://t.me/john_stooop" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
   
   <a href="https://wa.me/89818766977" target="_blank">
-    <img src="https://img.shields.io/badge/-whatsapp-090?style=for-the-badge&logo=whatsapp&logoColor=27A0D" alt="whatsapp">
+    <img src="https://img.shields.io/badge/-whatsapp-25D3?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
 </div>
