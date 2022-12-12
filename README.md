@@ -24,8 +24,8 @@
 
 ### Изучаю 👇🏻
   
-![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+<!-- ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ -->
 ![Node](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
